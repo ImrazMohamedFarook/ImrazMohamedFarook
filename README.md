@@ -1,6 +1,11 @@
 <h1 align="center">Hi there! 👋 I'm Imraz Mohamed Farook</h1>
 <h3 align="center">Biomedical and Electrical Engineering enthusiast from Ottawa, Canada</h3>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ImrazMohamedFarook&theme=rising-sun&border_radius=7.2&hide_longest_streak=true" alt="" /></p>
+<p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImrazMohamedFarook&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="Ali Sharif" />
+</p>
+
 - 🔭 I'm currently working on **my capstone project, revolutionizing Motor and Strength Testing in neurological examinations**
 
 - 🌱 I’m expanding my knowledge in **Python and GUI development**
