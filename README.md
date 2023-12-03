@@ -2,9 +2,6 @@
 <h3 align="center">Biomedical and Electrical Engineering enthusiast from Ottawa, Canada</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ImrazMohamedFarook&theme=rising-sun&border_radius=7.2&hide_longest_streak=true" alt="" /></p>
-<p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImrazMohamedFarook&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="Ali Sharif" />
-</p>
 
 - 🔭 I'm currently working on **my capstone project, revolutionizing Motor and Strength Testing in neurological examinations**
 
@@ -32,4 +29,8 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" width="80" height="40"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" width="80" height="40"/>
 
+</p>
+
+<p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImrazMohamedFarook&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="Ali Sharif" />
 </p>
