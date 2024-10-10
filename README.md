@@ -5,7 +5,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ImrazMohamedFarook&theme=rising-sun&border_radius=7.2&hide_longest_streak=true" alt="" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imrazmohamedfarook&label=Profile%20views&color=ae09fb&style=flat-square" alt="imrazmohamedfarook" /> </p>
 
-- 🔭 I'm currently working on **my capstone project, revolutionizing Motor and Strength Testing in neurological examinations**
+- 🔭 I worked on **my capstone project, revolutionizing Motor and Strength Testing in neurological examinations**
 
 - 🌱 I’m expanding my knowledge in **Python and GUI development**
 
