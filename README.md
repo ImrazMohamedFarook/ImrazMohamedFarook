@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Imraz Mohamed Farook</h1>
-<h3 align="center">Biomedical and Electrical Engineering enthusiast from Ottawa, Canada</h3>
+<h3 align="center">Biomedical and Electrical Engineering enthusiast from Brampton,ON Canada</h3>
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ImrazMohamedFarook&theme=rising-sun&border_radius=7.2&hide_longest_streak=true" alt="" /></p>
